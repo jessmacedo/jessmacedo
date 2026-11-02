@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jéssica Macêdo 👋
 
-<!--
-**jessmacedo/jessmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FP&A · Financial Performance · Operations Finance**
 
-Here are some ideas to get you started:
+I'm a finance and business performance professional based in Recife, Brazil, with a background in Production Engineering and an MBA in Project Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My career spans manufacturing, process improvement, cost management and FP&A. This hands-on operational experience helps me connect business drivers with financial results and turn complex data into clear insights for decision-making.
+
+### What I bring
+
+- **Financial planning and analysis:** budgeting, forecasting, rolling forecasts, P&L and variance analysis.
+- **Business partnering:** working with finance, commercial, logistics and operational teams to understand performance and support decisions.
+- **Analytics and automation:** developing dashboards and improving reporting routines with Power BI, DAX, Power Query and Excel/VBA.
+- **Operational insight:** experience in manufacturing productivity, cost optimization and continuous improvement.
+
+### Tools
+
+Power BI · DAX · Power Query · Excel · VBA · SAP
+
+### What you'll find here
+
+This portfolio is being built to showcase my approach to financial analysis, business intelligence and reporting automation.
+
+### Let's connect
+
+I'm open to global remote contractor opportunities in FP&A, financial analytics and business performance.
