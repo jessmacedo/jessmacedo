@@ -24,3 +24,9 @@ This portfolio is being built to showcase my approach to financial analysis, bus
 ### Let's connect
 
 I'm open to global remote contractor opportunities in FP&A, financial analytics and business performance.
+
+## Contact
+
+Aberta a conexões profissionais e oportunidades em FP&A, análise financeira e Business Intelligence.
+
+📧 [jessica91739@gmail.com](mailto:jessica91739@gmail.com)
