@@ -27,6 +27,6 @@ I'm open to global remote contractor opportunities in FP&A, financial analytics 
 
 ## Contact
 
-Aberta a conexões profissionais e oportunidades em FP&A, análise financeira e Business Intelligence.
+Open to professional connections and opportunities in FP&A, Financial Analysis, and Business Intelligence.
 
 📧 [jessica91739@gmail.com](mailto:jessica91739@gmail.com)
